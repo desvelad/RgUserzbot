@@ -14,7 +14,7 @@
 ----
 
 ## Kurulum
-https://replit.com/@Mehmetbaba06/installer-2#pyproject.toml
+https://replit.com/@Mehmetbaba06/installer-2
 
 ### Basit Yöntem
 Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](https://github.com/Quiec/AsenaUserBot/wiki/Kurulum/)
