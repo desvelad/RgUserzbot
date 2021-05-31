@@ -14,7 +14,8 @@
 ----
 
 ## Kurulum
-https://replit.com/@Mehmetbaba06/installer-2
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mehmetbaba06/installer-2) 
 
 ### Basit Yöntem
 Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](https://github.com/Quiec/AsenaUserBot/wiki/Kurulum/)
