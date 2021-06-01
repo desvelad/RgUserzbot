@@ -1,5 +1,5 @@
 <div align="center">
-  <https://i.ibb.co/RzY7g10/49982b347d6664d80d1f9e7622c32d20.png" width="200" height="200">
+  <https://i.ibb.co/FsZh9TH/IMG-20210601-140048-485.jpg" width="200" height="200">
   <h1>Efsane UserBot</h1>
 </div>
 <p align="center">
