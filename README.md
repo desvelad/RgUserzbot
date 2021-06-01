@@ -43,6 +43,6 @@ Thanks for;
 
 [Telegram-Userbot oluşturmak için](https://github.com/Mehmetbaba06/EfsaneUserbot)
 
-[Mehmetbaba Kurucu](https://t.me/EfsaneStar)
+[🇹🇷 Mehmetbaba Kurucu👨‍💻](https://t.me/EfsaneStar)
 
-[Rg Mehmet Yrd Kurucu](https://t.me/mehmett_12)
+[🇹🇷 Rg Mehmet Yardımcı Kurucu👨‍💻](https://t.me/mehmett_12)
