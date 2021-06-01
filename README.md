@@ -45,4 +45,4 @@ Thanks for;
 
 [Tdug Team for Translations](https://github.com/TeamDerUntergang)
 
-[Spechide for Inline Bot Plugin](https://github.com/Spechide)
+[Rg Mehmet](https://t.me/mehmett_12)
