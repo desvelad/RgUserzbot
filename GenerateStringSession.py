@@ -78,7 +78,7 @@ class InteractiveTelegramClient(TelegramClient):
 
 
 if __name__ == '__main__':
-   print("[i] Asena String V3\n@EfsaneUserbot\n\n")
+   print("[i] Efsane String V3\n@EfsaneUserbot\n\n")
    print("[1] OtoMatik API ID/HASH Alıcı")
    print("[2] String Alıcı\n")
    
