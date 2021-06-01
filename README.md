@@ -38,7 +38,7 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Efsa
     Asenayı kurarak bu sorumlulukları kabul etmiş sayılırsınız.
 ```
 
-## Kredi
+## Bilgi Almak
 İçin teşekkürler.;
 
 [Telegram-Userbot oluşturmak için](https://github.com/Mehmetbaba06/Bilgi)
