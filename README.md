@@ -6,7 +6,7 @@
     Efsane UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
     <br>
         <a href="https://github.com/Mehmetbaba06/EfsaneUserbot/blob/master/README.md#kurulum">Kurulum</a> |
-        <a href="https://github.com/Quiec/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
+        <a href="https://t.me/EfsaneUserbot/G%C3%BCncelleme">Güncelleme</a> |
         <a href="https://t.me/EfsaneUserbot">Telegram Kanal</a>
     <br>
 </p>
