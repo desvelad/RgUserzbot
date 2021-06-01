@@ -41,8 +41,8 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Asen
 ## Credit
 Thanks for;
 
-[RaphielGang for creating Telegram-Userbot](https://github.com/RaphielGang)
+[Telegram-Userbot oluşturmak için](https://github.com/Mehmetbaba06/EfsaneUserbot)
 
-[Tdug Team for Translations](https://github.com/TeamDerUntergang)
+[Mehmetbaba Kurucu](https://t.me/EfsaneStar)
 
-[Rg Mehmet](https://t.me/mehmett_12)
+[Rg Mehmet Yrd Kurucu](https://t.me/mehmett_12)
