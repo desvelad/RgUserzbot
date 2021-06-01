@@ -20,7 +20,7 @@
 ### Basit Yöntem
 Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](https://github.com/Quiec/AsenaUserBot/wiki/Kurulum/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba06/EfsaneUserbot)
 ### Zor Yöntem
 ```python
 git clone https://github.com/Quiec/AsenaUserBot.git
@@ -41,7 +41,7 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Asen
 ## Kredi
 İçin teşekkürler.;
 
-[Telegram-Userbot oluşturmak için](https://github.com/Mehmetbaba06/EfsaneUserbot)
+[Telegram-Userbot oluşturmak için](https://github.com/Mehmetbaba06/Bilgi)
 
 [👨‍💻 Mehmetbaba Kurucu 🇹🇷](https://t.me/EfsaneStar)
 
