@@ -15,6 +15,8 @@
 
 ## Kurulum
 
+https://replit.com/@Mehmetbaba06/GenerateStringSession#poetry.lock
+
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mehmetbaba06/installer-2) 
 
 ### Basit Yöntem
