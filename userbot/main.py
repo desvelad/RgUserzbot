@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-# Asena UserBot - Yusuf Usta
+# Efsane Userbot - MehmetBaba 
 
 """ UserBot başlangıç noktası """
 import importlib
@@ -39,7 +39,7 @@ DIZCILIK_STR = [
 
 AFKSTR = [
     "Şu an acele işim var, daha sonra mesaj atsan olmaz mı? Zaten yine geleceğim.",
-    "Aradığınız kişi şu anda telefona cevap veremiyor. Sinyal sesinden sonra kendi tarifeniz üzerinden mesajınızı bırakabilirsiniz. Mesaj ücreti 49 kuruştur. \n`biiiiiiiiiiiiiiiiiiiiiiiiiiiiip`!",
+    "Aradığınız kişi şu anda telefona cevap veremiyor. Sinyal sesinden sonra kendi tarifeniz üzerinden mesajınızı bırakabilirsiniz. Mesaj ücreti 49 kuruştur yersen. \n`biiiiiiiiiiiiiiiiiiiiiiiiiiiiip`!",
     "Birkaç dakika içinde geleceğim. Fakat gelmezsem...\ndaha fazla bekle.",
     "Şu an burada değilim, muhtemelen başka bir yerdeyim.",
     "Güller kırmızı\nMenekşeler mavi\nBana bir mesaj bırak\nVe sana döneceğim.",
@@ -62,10 +62,10 @@ AFKSTR = [
     "Şu an burada değilim....\nama öyleysem ...\n\nbu harika olmaz mıydı?",
 ]
 
-UNAPPROVED_MSG = ("`Hey! Bu bir bot. Endişelenme.\n\n`"
+UNAPPROVED_MSG = ("`Selam Yabancı! Bu bir bot. Endişelenme.\n\n`"
                   "`Sahibim sana PM atma izni vermedi. `"
                   "`Lütfen sahibimin aktif olmasını bekleyin, o genellikle PM'leri onaylar.\n\n`"
-                  "`Bildiğim kadarıyla o kafayı yemiş insanlara PM izni vermiyor.`")
+                  "`Bildiğim kadarıyla o sizi fazla bekletmez şuan PM izni vermiyor.`")
 
 DB = connect("learning-data-root.check")
 CURSOR = DB.cursor()
@@ -177,7 +177,7 @@ for module_name in ALL_MODULES:
 
 LOGS.info("Botunuz çalışıyor! Herhangi bir sohbete .alive yazarak Test edin."
           " Yardıma ihtiyacınız varsa, Destek grubumuza gelin t.me/AsenaSupport")
-LOGS.info("Bot sürümünüz Asena v1.9")
+LOGS.info("Bot sürümünüz Efsane v1.9")
 
 """
 if len(argv) not in (1, 3, 4):
