@@ -23,8 +23,8 @@ Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](ht
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba06/EfsaneUserbot)
 ### Zor Yöntem
 ```python
-git clone https://github.com/Quiec/AsenaUserBot.git
-cd AsenaUserBot
+git clone https://github.com/Mehmetbaba06/EfsaneUserbot.git
+cd EfsaneUserbot
 pip install -r requirements.txt
 # Config.env oluşturun ve düzenleyin. #
 python3 main.py
