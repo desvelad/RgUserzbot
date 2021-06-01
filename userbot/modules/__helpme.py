@@ -1,13 +1,13 @@
-# Copyright (C) 2020 Yusuf Usta.
+# Copyright (C) 2020 Mehmetbaba.
 #
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
 
-# Asena UserBot - Yusuf Usta
+# Efsane Userbot - MehmetBaba
 #
 
-# @Qulec tarafından yazılmıştır.
+# @EfsaneStar tarafından yazılmıştır.
 # Thanks @Spechide.
 
 from userbot import BOT_USERNAME
@@ -19,7 +19,7 @@ async def yardim(event):
     if tgbotusername is not None:
         results = await event.client.inline_query(
             tgbotusername,
-            "@AsenaUserBot"
+            "@EfsaneUserbot"
         )
         await results[0].click(
             event.chat_id,
