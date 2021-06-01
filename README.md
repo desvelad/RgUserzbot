@@ -1,5 +1,5 @@
-<div align="center">
-  <https://i.ibb.co/FsZh9TH/IMG-20210601-140048-485.jpg" width="200" height="200">
+ [![W2HMusic logo](https://i.ibb.co/FsZh9TH/IMG-20210601-140048-485.jpg)](https://t.me/EfsaneStar)
+ 
   <h1>Efsane UserBot</h1>
 </div>
 <p align="center">
