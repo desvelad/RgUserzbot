@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-# @Qulec tarafından yazılmıştır.
+# @EfsaneStar tarafından yazılmıştır.
 import re
 import os
 from telethon.tl.types import DocumentAttributeFilename, InputMessagesFilterDocument
