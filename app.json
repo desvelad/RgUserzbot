@@ -1,18 +1,18 @@
 {
-  "name": "Asena UserBot",
-  "description": "Asena UserBot",
-  "logo": "https://i.hizliresim.com/1UoYoT.jpg",
+  "name": "Efsane Userbot",
+  "description": "Efsane Userbot",
+  "logo": "",
   "keywords": [
     "telegram",
     "userbot",
-	"Asena",
+	"Efsane",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/quiec/AsenaUserbot",
+  "repository": "https://github.com/Mehmetbaba06/EfsaneUserbot",
   "website":   "https://quiec.tech",
-  "success_url": "https://t.me/AsenaSupport",
+  "success_url": "https://t.me/@EfsaneUserbot",
   "stack": "container",
   "env": {
     "API_KEY": {
