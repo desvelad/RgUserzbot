@@ -1,9 +1,9 @@
 <div align="center">
   <https://i.ibb.co/RzY7g10/49982b347d6664d80d1f9e7622c32d20.png" width="200" height="200">
-  <h1>Asena UserBot</h1>
+  <h1>Efsane UserBot</h1>
 </div>
 <p align="center">
-    Asena UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
+    Efsane UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
     <br>
         <a href="https://github.com/quiec/AsenaUserBot/blob/master/README.md#kurulum">Kurulum</a> |
         <a href="https://github.com/Quiec/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
