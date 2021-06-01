@@ -1,6 +1,6 @@
  [![W2HMusic logo](https://i.ibb.co/FsZh9TH/IMG-20210601-140048-485.jpg)](https://t.me/EfsaneUserbot)
  
-  <h1>Efsane UserBot</h1>
+  <h1>Efsane Userbot</h1>
 </div>
 <p align="center">
     Efsane UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
