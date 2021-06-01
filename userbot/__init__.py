@@ -5,7 +5,7 @@
 #
 
 # Thanks github.com/spechide for creating inline bot support.
-# EfsaneUserBot - MehmetBaba 
+# EfsaneUserbot - MehmetBaba 
 """ UserBot hazırlanışı. """
 
 import os
@@ -286,7 +286,7 @@ with bot:
         @tgbot.on(events.NewMessage(pattern='/start'))
         async def handler(event):
             if not event.message.from_id == uid:
-                await event.reply(f'`Merhaba ben` @AsenaUserBot`! Ben sahibime (`@{me.username}`) yardımcı olmak için varım, yaani sana yardımcı olamam :/ Ama sen de bir Asena açabilirsin; Kanala bak` @AsenaUserBot')
+                await event.reply(f'`Merhaba ben` @EfsaneUserbot `! Ben sahibime (`@{me.username}`) yardımcı olmak için varım, yaani sana yardımcı olamam :/ Ama sen de bir EfsaneUser açabilirsin; Kanala bak` @EfsaneUserbot')
             else:
                 await event.reply(f'`Senin için çalışıyorum :) Seni seviyorum. ❤️`')
 
