@@ -38,11 +38,11 @@ Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/Asen
     Asenayı kurarak bu sorumlulukları kabul etmiş sayılırsınız.
 ```
 
-## Credit
-Thanks for;
+## Kredi
+İçin teşekkürler.;
 
 [Telegram-Userbot oluşturmak için](https://github.com/Mehmetbaba06/EfsaneUserbot)
 
-[🇹🇷 Mehmetbaba Kurucu👨‍💻](https://t.me/EfsaneStar)
+[👨‍💻 Mehmetbaba Kurucu 🇹🇷](https://t.me/EfsaneStar)
 
-[🇹🇷 Rg Mehmet Yardımcı Kurucu👨‍💻](https://t.me/mehmett_12)
+[👨‍💻 Rg Mehmet Yardımcı Kurucu 🇹🇷](https://t.me/mehmett_12)
