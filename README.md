@@ -13,14 +13,9 @@
 
 ----
 
-## Otomatik Ve Elle Kurulum ##
 ## Elle Kurulum ##
-<a href="https://replit.com/@Mehmetbaba06/GenerateStringSession#poetry.lock"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
- 
 
-
-## Otomatik Kurulum ##
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mehmetbaba06/installer-2)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mehmetbaba06/GenerateStringSession#poetry.lock)
 
 
 
