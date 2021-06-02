@@ -13,7 +13,7 @@
 
 ----
 
-## Elle Kurulum ##
+## Generate Sitring Season için tıklayınız ##
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Mehmetbaba06/GenerateStringSession#poetry.lock)
 
